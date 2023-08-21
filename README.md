@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm SharkLatan</h1>
 <h3 align="center">I am a Tech YouTuber, software dev, reverse engineerand, web & graphic from México</h3>
 
+## Projects
+| Project                                                    | Description                                                                                                       |
+|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| [SharkGo](https://github.com/sharklatan/SharkGo)             | Fake GPS Tool for iOS devices (without JB) on Windows, Mac and Ubuntu.                                    |
+| [TrollStore](https://github.com/sharklatan/trollstore)               | Storage of IPA´s for Tweaked apps for TrollStore iOS and SideLoad. |
+| [Ra1nUSB](https://github.com/Shark-Stuff/Ra1nUSB)             | Boot USB macOS with Checkra1n.                                                                                       |
+| [Ra1nKVM](https://github.com/Shark-Stuff/Ra1nKVM) | KVM macOS virtual machine with some changes to skip the installation.                                              |
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharklatan&label=Profile%20views&color=0e75b6&style=flat" alt="sharklatan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharklatan" alt="sharklatan" /></a> </p>
